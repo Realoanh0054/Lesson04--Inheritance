@@ -1,4 +1,4 @@
-package advance;
+package advance.dev;
 
 public class ConNguoi {
 	protected String name;

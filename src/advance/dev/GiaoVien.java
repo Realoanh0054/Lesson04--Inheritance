@@ -1,4 +1,4 @@
-package advance;
+package advance.dev;
 
 public class GiaoVien extends ConNguoi {
 	

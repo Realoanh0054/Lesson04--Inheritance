@@ -1,4 +1,4 @@
-package advance;
+package advance.dev;
 
 import java.util.Iterator;
 import java.util.Scanner;
